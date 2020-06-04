@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "more_chests_mod:block/example_block"
+    }
+  }
+}
