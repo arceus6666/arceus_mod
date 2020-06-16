@@ -14,8 +14,8 @@ apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
 version = '1.15.2-0.1.0'
-group = 'com.github.arceus6666.more_chests_mod' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = 'more_chests_mod'
+group = 'com.github.arceus6666.arceus_mod' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = 'arceus_mod'
 
 sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.
 

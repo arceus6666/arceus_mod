@@ -13,17 +13,17 @@ issueTrackerURL = "http://my.issue.tracker/" #optional
 # A list of mods - how many allowed here is determined by the individual mod loader
 [[mods]] #mandatory
 # The modid of the mod
-modId = "more_chests_mod" #mandatory
+modId = "arceus_mod" #mandatory
 # The version number of the mod - there's a few well known ${} variables useable here or just hardcode it
 version = "${version}" #mandatory
 # A display name for the mod
 displayName = "More Chests Mod" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification <here>
-updateJSONURL = "https://github.com/arceus6666/more_chests_mod" #optional
+updateJSONURL = "https://github.com/arceus6666/arceus_mod" #optional
 # A URL for the "homepage" for this mod, displayed in the mod UI
-displayURL = "https://github.com/arceus6666/more_chests_mod" #optional
+displayURL = "https://github.com/arceus6666/arceus_mod" #optional
 # A file name (in the root of the mod JAR) containing a logo for display
-logoFile = "more_chests_mod.png" #optional
+logoFile = "arceus_mod.png" #optional
 # A text field displayed in the mod UI
 credits = "arceus6666" #optional
 # A text field displayed in the mod UI

@@ -1,7 +1,0 @@
-{
-	"item.more_chests_mod.example_item": "Example Item",
-  "block.more_chests_mod.example_block": "Example Block",
-  "block.more_chests_mod.iron_chest": "Iron Chest",
-  "container.iron_chest": "Iron Chest",
-  "itemGroup.grouptab": "More Chests"
-}

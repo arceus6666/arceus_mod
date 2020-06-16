@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "arceus_mod:blocks/example_block"
+  }
+}
